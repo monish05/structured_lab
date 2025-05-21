@@ -6,7 +6,7 @@ import plotly.express as px
 # ----------------------
 sidebar(
     defaultopen=True,
-    logo="https://github.com/monish05/structured_lab/blob/main/images/logo.png",
+    logo="images/logo.png",
     name="EV Insights Dashboard"
 )
 
