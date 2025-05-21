@@ -111,7 +111,7 @@ From clean visuals to flexible layout, this project reflects how **deeply I unde
 ## 📸 Dashboard Screenshot
 Below is a snapshot of the EV Insights Dashboard built entirely with Preswald:
 
-![EV Dashboard Screenshot](assets/dashboard.png)
+![EV Dashboard Screenshot](Assets/dashboard.png)
 
 ---
 
