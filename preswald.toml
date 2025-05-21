@@ -1,0 +1,24 @@
+[project]
+title = "EV Insights Dashboard"
+version = "0.1.0"
+port = 8501
+slug = "EV"  
+entrypoint = "hello.py"    
+
+[branding]
+name = "EV Insights Dashboard"
+logo = "images/logo.png"
+favicon = "images/favicon.ico"
+primaryColor = "#0077B6"
+secondaryColor = "#00B4D8"
+backgroundColor = "#F0F8FF"
+textColor = "#023E8A"
+
+
+[data.EV_sales]
+type = "csv"
+path = "data/EV_sales.csv"
+
+[logging]
+level = "INFO"  
+format = "%(asctime)s - %(name)s - %(levelname)s - %(message)s"
