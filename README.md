@@ -108,6 +108,13 @@ From clean visuals to flexible layout, this project reflects how **deeply I unde
 
 ---
 
+## 📸 Dashboard Screenshot
+Below is a snapshot of the EV Insights Dashboard built entirely with Preswald:
+
+![EV Dashboard Screenshot](assets/dashboard.png)
+
+---
+
 ## 🙌 Thank You
 
 Thank you for reviewing this submission! I genuinely enjoyed exploring Preswald and would love the opportunity to contribute to its continued success at StructuredLabs.
